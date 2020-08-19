@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>backspace</title>
+        <link>https://kerunaru.info</link>
+        <description>RSS feed for backspace</description>
+        <atom:link href="https://kerunaru.info/rss.xml" rel="self" type="application/rss+xml" />
+                    <item>
+                <title>La necesidad de vivir en el presente</title>
+                <description><![CDATA[<p>Nuestro cerebro. El órgano regidor de nuestro cuerpo. Lugar dónde residimos cada uno de nosotros. Intérprete de estímulos. Fuente de nuestro intelecto. Entre las innumerables funciones que realiza nos encontramos con el llamado <em>Sistema de recompensa</em>. Este sistema es el que nos hace sentirnos plenos cuando logramos algún hito en nuestro día a día para que así tengamos una motivación para volver a hacer lo que fuera que hubieramos hecho.</p>
+
+<p>De esta forma, si salimos a buscar alimento, nuestro cerebro segrega dopaminas al comer lo recolectado. Este neurotransmisor llega hasta el sistema límbico dónde se crean la sensación de placer y, éstas, pasan después al lóbulo frontal donde se integran en forma de motivaciones que nos incitan a repetir el proceso.</p>
+
+<p>El problema viene cuando nuestro cerebro de más de dos cientos mil años se encuentra en un entorno en el que no hay que salir a cazar, ni a recolectar frutos, ni tampoco hay que migrar en busca de agua; nuestro cerebro sigue funcionando igual porque no le ha dado tiempo a evolucionar ante este nuevo entorno en el que vivimos.</p>
+
+<p>Aquí entra en acción el <em>marketing</em> y, sacando partido del <em>Sistema de recompensa</em>, se nos consigue vender cosas que no necesitamos para cubrir necesidades que no son reales.</p>
+
+<p>El siguiente problema viene cuando esto se instaura en la sociedad y todo empieza a fluir innecesariamente rápido. Cada año sale un iPhone nuevo al mercado y la gente se lo compra aunque su terminal funcione perfectamente. Este ejempo se puede extrapolar a casi cualquier cosa que se venda. El resultado de esta dinámica es la bien conocida <em>Sociedad de consumo</em> en la que estamos inmersos.</p>
+
+<p>Cuando esto pasa a estar normalizado, se viene otro problema aún más grave que es el de vivir en el futuro. Se tiende a vivir el día a día pensando en lo que va a venir y se pasa a basar en esto la toma de muchísimas decisiones que se realizan en la vida cotidiana. El cerebro se habitúa a esta estructura de discernimiento lógico, se realizan nuevos enlaces sinápticos siguiendo este patrón y lo más eficiente a nivel energético es seguirlo cuanto más veces se pueda mejor.</p>
+
+<p>Y, ahora sí, esto provoca que a la hora de afrontar un determinado problema en nuestro trabajo tendamos a no fijarnos bien en lo que tenemos delante, pasar por alto ciertos aspectos cruciales para llegar a una solución óptima o tomar malas decisiones debido a que nuestro juicio está nublado por todo lo que he escrito anteriormente. <strong>Estamos más inmersos en terminar la tarea que en el código que tenemos delante y esto es un gran error</strong>.</p>
+
+<p>¿Cuántas veces hemos implementado algo sin haber realizado un análisis más en profundidad motivado por un <em>deadline</em> demasiado próximo? ¿Cuántos <em>hotfix</em> hemos subido de rapidez por que había un error en producción solo para darnos cuenta de que tenemos que hacer otro para arreglar un <em>bug</em> introducido por las prisas? El trabajo de un desarrollador no se basa exclusivamente en <em>picar código</em>, también hay una parte muy importante de análisis y <strong>creatividad</strong>.</p>
+
+<figure class="text-right">
+  <blockquote class="blockquote">La creatividad es la capacidad de generar nuevas ideas o conceptos, de nuevas asociaciones entre ideas y conceptos conocidos, que habitualmente producen soluciones originales.</blockquote>
+  <figcaption class="blockquote-footer">
+    Definición de Creatividad según <cite title="Wikipedia">Wikipedia</cite>
+  </figcaption>
+</figure>
+
+<p>Todo tiempo invertido en la parte previa a codificar es, válgame la redundancia, una inversión que dará sus frutos en forma de <strong>menos deuda técnica, código más estable y más fiable</strong> y, por transitividad, <strong>optimización de recursos</strong> derivada de un código que requerirá de menos revisiones y menos mantenimiento.</p>
+
+<p>Dejadnos pensar…</p>
+]]></description>
+                <link>https://kerunaru.info/2020/04/10/la-necesidad-de-vivir-en-el-presente</link>
+                <pubDate>Fri, 10 Apr 2020 09:58:37 +0000</pubDate>
+                <guid>https://kerunaru.info/2020/04/10/la-necesidad-de-vivir-en-el-presente</guid>
+            </item>
+            </channel>
+</rss>
