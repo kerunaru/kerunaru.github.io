@@ -9,4 +9,10 @@
             <changefreq>monthly</changefreq>
             <priority>0.5</priority>
         </url>
+            <url>
+            <loc>https://kerunaru.info/2020/09/10/lidiar-con-la-incertidumbre</loc>
+            <lastmod>2020-09-10 17:42:12 +0200</lastmod>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+        </url>
     </urlset>
