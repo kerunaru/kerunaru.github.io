@@ -12,17 +12,17 @@
 
 @font-face {
   font-family: "Tahoma";
-  src: url(../fonts/tahoma.ttf); 
+  src: url(/fonts/tahoma.ttf); 
 }
 
 @font-face {
   font-family: "Tahoma Bold";
-  src: url(../fonts/tahomabd.ttf); 
+  src: url(/fonts/tahomabd.ttf); 
 }
 
 @font-face {
-  font-family: "Courier New";
-  src: url(../fonts/couriernew.ttf); 
+  font-family: "Classic Console Neue";
+  src: url(/fonts/clacon2.ttf);
 }
 
 body {
@@ -83,6 +83,11 @@ nav > a {
   border-bottom: 1px dotted transparent;
 }
 
+nav > span.current {
+  border-bottom: 1px dotted transparent;
+  color: var(--grey);
+}
+
 main {
   max-width: 40rem;
   margin: 0 auto 0 0;
@@ -125,6 +130,23 @@ main > article > p > sup {
   vertical-align: baseline;
 }
 
+main > article > figure > img {
+  width: 100%;
+  padding: 0.25rem;
+  border: 1px solid var(--light-grey);
+  margin-bottom: -2rem;
+}
+
+main > article > figure > figcaption {
+  font-size: small;
+  margin-left: 0.5rem;
+  padding: 0.25rem;
+  background: #FFFFFFAA;
+  z-index: 1;
+  position: relative;
+  display: inline-block;
+}
+
 hr {
   border: none;
   border-bottom: 2px solid var(--desktop-blue);
@@ -147,13 +169,22 @@ main > ul, menu {
 }
 
 code {
-  font-family: "Courier New";
-  font-weight: bold;
+  font-family: "Classic Console Neue";
+  font-size: 16px;
 }
 
 footer {
   display: flex;
-  gap: 0.5rem;
+  gap: 0.25rem;
   background: var(--light-grey);
   padding: 1rem;
+}
+
+footer > a {
+  border-bottom: none;
+  height: 15px;
+}
+
+footer > a:hover {
+  border-bottom: none;
 }

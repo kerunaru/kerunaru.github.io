@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+  <atom:link href="https://juanmacabello.info/rss.xml" rel="self" type="application/rss+xml" />
+  <title>El sitio web de @jmcb</title>
+  <link>https://www.juanmacabello.info</link>
+  <description>Anotaciones de un ingeniero de software que añora una época pretérita cuando la informática era más divertida.</description>
+  <item>
+    <title>La esencia de la informática personal</title>
+    <link>https://juanmacabello.info/journal/2025/08/04/la-esencia-de-la-informatica-personal.html</link>
+    <guid>https://juanmacabello.info/journal/2025/08/04/la-esencia-de-la-informatica-personal.html</guid>
+    <description>Llevo tiempo con un pensamiento incómodo en mi cabeza al que nunca me he atrevido a mirar a los ojos… Quizás es que no he querido afrontarlo, no lo sé realmente. No sé tampoco si le pasará a más colegas de profesión o es solo cosa mía pero a día de hoy considero que la informática está rota. Voy a ir explicando punto por punto mi proceso lógico para llegar a dicha conclusión.</description>
+  </item>
+</channel>
+
+</rss>
