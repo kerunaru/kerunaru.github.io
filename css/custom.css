@@ -122,7 +122,7 @@ main > article > small {
   color: var(--grey);
 }
 
-main > article > h2 {
+main h2 {
   font-family: "Tahoma Bold";
   font-size: 1.2rem;
   margin: 0 0 1rem 0;
