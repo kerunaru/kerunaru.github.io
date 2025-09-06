@@ -17,12 +17,12 @@
 
 @font-face {
   font-family: "Tahoma";
-  src: url(/fonts/tahoma.ttf); 
+  src: url(/fonts/tahoma.ttf);
 }
 
 @font-face {
   font-family: "Tahoma Bold";
-  src: url(/fonts/tahomabd.ttf); 
+  src: url(/fonts/tahomabd.ttf);
 }
 
 @font-face {
@@ -31,6 +31,7 @@
 }
 
 body {
+  cursor: url("/img/default.cur") 0 0, auto;
   font-family: "Tahoma";
   font-size: 0.9rem;
   display: flex;
@@ -47,7 +48,13 @@ header {
   color: var(--white);
 }
 
+header ::selection {
+  background: var(--light-blue);
+  color: var(--black);
+}
+
 header > h1 {
+  cursor: url("/img/text.cur") 10 10, auto;
   font-family: "Tahoma Bold";
   font-size: 1.5rem;
 }
@@ -58,6 +65,7 @@ header > img {
 }
 
 a {
+  cursor: url("/img/pointer.cur") 10 10, auto;
   color: #0000FF;
   text-decoration: none;
   border-bottom: 1px dotted;
@@ -89,9 +97,9 @@ nav > a {
 }
 
 nav > span.current {
+  cursor: url("/img/text.cur") 10 10, auto;
   border-bottom: 1px dotted transparent;
   color: var(--grey);
-  cursor: default;
 }
 
 main {
@@ -101,6 +109,7 @@ main {
 }
 
 main > .tooltip {
+  cursor: url("/img/text.cur") 10 10, auto;
   background: var(--tooltip-yellow);
   border: 1px solid var(--black);
   padding: 0.5rem;
@@ -118,17 +127,20 @@ main > article > menu {
 }
 
 main > article > small {
+  cursor: url("/img/text.cur") 10 10, auto;
   display: block;
   color: var(--grey);
 }
 
 main h2 {
+  cursor: url("/img/text.cur") 10 10, auto;
   font-family: "Tahoma Bold";
   font-size: 1.2rem;
   margin: 0 0 1rem 0;
 }
 
 main > article > p {
+  cursor: url("/img/text.cur") 10 10, auto;
   margin: 1rem 0;
   line-height: 1.3rem;
 }
@@ -149,6 +161,7 @@ main > article > figure > img {
 }
 
 main > article > figure > figcaption {
+  cursor: url("/img/text.cur") 10 10, auto;
   font-size: small;
   margin-left: 0.5rem;
   padding: 0.25rem;
@@ -166,12 +179,14 @@ hr {
 }
 
 h3 {
+  cursor: url("/img/text.cur") 10 10, auto;
   font-family: "Tahoma Bold";
   font-size: 1rem;
   margin: 0 0 1rem 0;
 }
 
 main > ul, menu {
+  cursor: url("/img/text.cur") 10 10, auto;
   list-style: square;
   display: flex;
   flex-direction: column;
@@ -180,6 +195,7 @@ main > ul, menu {
 }
 
 code {
+  cursor: url("/img/text.cur") 10 10, auto;
   font-family: "Classic Console Neue";
   font-size: 16px;
 }
